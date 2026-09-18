@@ -1,0 +1,114 @@
+[
+  {
+    "court": {
+      "county": "Los Angeles"
+    },
+    "plaintiff": {
+      "name_caps": "MICHAEL JOHNSON"
+    },
+    "defendant": {
+      "name_caps": "ROBERT WILLIAMS"
+    },
+    "case": {
+      "number": "24STCV04567"
+    }
+  },
+  {
+    "court": {
+      "county": "San Francisco"
+    },
+    "plaintiff": {
+      "name_caps": "ACME CORPORATION"
+    },
+    "defendant": {
+      "name_caps": "JAMES ANDERSON"
+    },
+    "case": {
+      "number": "CGC-25-612345"
+    }
+  },
+  {
+    "court": {
+      "county": "Orange"
+    },
+    "plaintiff": {
+      "name_caps": "SARAH THOMPSON"
+    },
+    "defendant": {
+      "name_caps": "DAVID MARTINEZ"
+    },
+    "case": {
+      "number": "30-2025-01478532"
+    }
+  },
+  {
+    "court": {
+      "county": "San Diego"
+    },
+    "plaintiff": {
+      "name_caps": "PACIFIC PROPERTY GROUP, LLC"
+    },
+    "defendant": {
+      "name_caps": "WILLIAM BROWN"
+    },
+    "case": {
+      "number": "37-2026-00012345"
+    }
+  },
+  {
+    "court": {
+      "county": "Alameda"
+    },
+    "plaintiff": {
+      "name_caps": "EMILY DAVIS"
+    },
+    "defendant": {
+      "name_caps": "JOHN SMITH AND JANE SMITH"
+    },
+    "case": {
+      "number": "25CV089321"
+    }
+  },
+  {
+    "court": {
+      "county": "Santa Clara"
+    },
+    "plaintiff": {
+      "name_caps": "TECHNOLOGY SOLUTIONS, INC."
+    },
+    "defendant": {
+      "name_caps": "INNOVATIVE SYSTEMS, LLC"
+    },
+    "case": {
+      "number": "25CV456789"
+    }
+  },
+  {
+    "court": {
+      "county": "San Bernardino"
+    },
+    "plaintiff": {
+      "name_caps": "ALEXANDER WILLIAM MONTGOMERY III"
+    },
+    "defendant": {
+      "name_caps": "CHRISTOPHER MICHAEL HENDERSON AND ELIZABETH ANNE HENDERSON"
+    },
+    "case": {
+      "number": "CV-2026-008765"
+    }
+  },
+  {
+    "court": {
+      "county": "Contra Costa"
+    },
+    "plaintiff": {
+      "name_caps": "O'BRIEN & ASSOCIATES, INC."
+    },
+    "defendant": {
+      "name_caps": "SMITH & JONES, LLP"
+    },
+    "case": {
+      "number": "MSC25-001234"
+    }
+  }
+]
