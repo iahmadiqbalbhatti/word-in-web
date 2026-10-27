@@ -5,7 +5,7 @@ import { DocxView, DocxToolbar, type DocxViewApi } from "wordinweb";
 import { matters, matterLabel, flattenKeys, safeFileName } from "@/lib/matters";
 import { fillTemplate, downloadBytes, TemplateError } from "@/lib/fillTemplate";
 
-const STARTER_TEMPLATE = "/templates/answer-template.docx";
+const STARTER_TEMPLATE = "/templates/make-pleading-template.docx";
 
 type Notice = { kind: "ok" | "warn" | "error"; text: string } | null;
 
